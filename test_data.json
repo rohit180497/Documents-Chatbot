@@ -1,0 +1,23 @@
+[
+    {
+        "question": "What is market risk?",
+        "answer": "Market risk refers to the risk of losses in on- and off-balance sheet positions arising from movements in market prices.",
+        "topic": "basics"
+    },
+    {
+        "question": "What is a payment system?",
+        "answer": "A payment system consists of a set of instruments, banking procedures, and interbank funds transfer systems that ensure the circulation of money.",
+        "topic": "payment"
+    },
+    {
+        "question": "What is marking to market?",
+        "answer": "Marking to market is the practice of revaluing securities and financial instruments using current market prices. In some cases, unsettled contracts to purchase or sell securities are marked to market, requiring the counterparty with an unrealised loss to transfer funds or securities equal to the loss to the other counterparty.",
+        "topic": "marketing"
+    },
+    {
+        "question": "What is interchange fee?",
+        "answer": "transaction fee payable in the context of a payment card network by one participating financial institution to another, for example by an acquirer to a card issuer in respect of a card payment by the cardholder to the card aceptor (merchant).",
+        "topic": "fee"
+
+    }
+]
