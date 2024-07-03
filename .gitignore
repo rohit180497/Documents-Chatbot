@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#echo '*.bin' >> .gitignore
+.env
+*.bin
+
 # C extensions
 *.so
 
