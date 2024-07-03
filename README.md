@@ -39,9 +39,13 @@ To run this application locally, follow these steps:
 
 ## Technology Stack
 **Streamlit**: UI framework for interactive web applications.
+
 **LangChain**: Framework for building and deploying language-based AI systems.
+
 **HuggingFace Transformers**: Provides state-of-the-art pre-trained models for natural language understanding.
 
+
+python 3.10
 ## Snapshots
 
 ![Chatbot Interface](images/ss1.png)
